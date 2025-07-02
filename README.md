@@ -13,7 +13,7 @@ Atualmente, estou desenvolvendo habilidades sólidas em:
 - 👨‍💻 **Desenvolvimento Back-end em Java**, com foco em APIs REST, Spring Boot e boas práticas como SOLID.
 - 🔄 **CI/CD e DevOps**, pipelines, testes e automação de deploys.
 
-Também participei do programa **AWS re/Start**, com experiências práticas em Cloud Computing, e concluo em breve o **Google Cybersecurity Certificate**.
+Também participei do programa **AWS re/Start**, com experiências práticas em Cloud Computing, e conclui também o **Google Cybersecurity Certificate**.
 
 ---
 
@@ -36,12 +36,8 @@ Também participei do programa **AWS re/Start**, com experiências práticas em 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieClCosta&layout=compact&theme=github_dark)](https://github.com/GabrieClCosta)
 
 ---
-
-### 📫 Contato
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/gabrielluiscosta/)
-- 📧 [Email](gabrieclcosta@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielluiscosta/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:gabrieclcosta@gmail.com)
 ---
 
 
