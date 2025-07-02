@@ -1,9 +1,5 @@
 #                    **Gabriel Costa**
 
-
-Estudante de Tecnologia | Foco em Cloud, Segurança e Backend | AWS Certified | Em formação contínua
-
-
 ---
 
 ### 🧠 Sobre mim
