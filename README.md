@@ -33,10 +33,6 @@ Também participei do programa **AWS re/Start**, com experiências práticas em 
 
 ---
 
-### 📈 GitHub Stats
-
-[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrieClCosta&show_icons=true&theme=github_dark)](https://github.com/GabrieClCosta)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieClCosta&layout=compact&theme=github_dark)](https://github.com/GabrieClCosta)
 
 ---
