@@ -1,4 +1,4 @@
-# Gabriel Luis da Costa Alonso
+# Gabriel Alonso
 
 ---
 
